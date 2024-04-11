@@ -711,14 +711,12 @@ ul {
 @media screen and (max-width: 1000px) {
     :root{font-size: 6px;}
 }
-@media screen and (max-width: 920px) {
-    :root{font-size: 4.9px;}
-/* }
+ }
 @media screen and (max-width: 840px) {
     :root{font-size: 5px;}
-} */
+} 
 @media screen and (max-width: 720px) {
-    :root{font-size: 4.7px;}
+    :root{font-size: 4px;}
 }
 
 @media screen and (max-width: 650px) {
