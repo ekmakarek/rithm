@@ -579,12 +579,12 @@ ul {
 }
 
 .curricula-info-heading-grid{
-    margin-left: 8rem;
+    margin-left: 4rem;
     display: grid;
     grid-template-columns: 66rem auto;
     width: 125rem;
     margin-bottom: 7rem;
-    gap: 3rem;
+    gap: 6rem;
 }
 
 .curricula-info-heading {
