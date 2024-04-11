@@ -520,7 +520,7 @@ ul {
 .tutor-grid{
     display: grid;
     grid-template-columns: 51rem 2fr;
-    gap: 16rem;
+    gap: 10rem;
     margin-bottom: 7rem;
 }
 
