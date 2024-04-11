@@ -696,6 +696,12 @@ ul {
     color: #1B5D83;
 }
 
+.body-tutor-info{
+    display: grid;
+    grid-template-rows: 1fr auto;
+    min-height: 100svh;
+}
+
 
 
 
