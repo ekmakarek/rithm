@@ -712,32 +712,32 @@ ul {
 
 @media screen and (max-width: 1200px) {
     :root{font-size: 7px;}
-    .filial{min-height: 130rem;}
+    .filial{min-height: 150rem;}
 
 }
 
 
 @media screen and (max-width: 1000px) {
     :root{font-size: 6px;}
-    .filial{min-height: 130rem;}
+    .filial{min-height: 150rem;}
 }
 
 @media screen and (max-width: 840px) {
     :root{font-size: 5px;}
-    .filial{min-height: 130rem;}
+    .filial{min-height: 150rem;}
 }
 
 @media screen and (max-width: 740px) {
     :root{font-size: 4.5px;}
-    .filial{min-height: 130rem;}
+    .filial{min-height: 150rem;}
 }
 
 @media screen and (max-width: 650px) {
     :root{font-size: 3px;}
-    .filial{min-height: 130rem;}
+    .filial{min-height: 150rem;}
 }
 
 @media screen and (max-width: 400px) {
     :root{font-size: 2px;}
-    .filial{min-height: 130rem;}
+    .filial{min-height: 150rem;}
 }
