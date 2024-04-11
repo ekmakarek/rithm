@@ -723,3 +723,7 @@ ul {
 @media screen and (max-width: 650px) {
     :root{font-size: 3px;}
 }
+
+@media screen and (max-width: 450px) {
+    :root{font-size: 2px;}
+}
