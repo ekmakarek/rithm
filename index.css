@@ -726,27 +726,37 @@ ul {
     :root{font-size: 5px;}
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
+    .hero__container{padding-top: 6rem;
+                    padding-bottom: 12rem;}
 }
 
 @media screen and (max-width: 740px) {
     :root{font-size: 4.5px;}
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
+    .hero__container{padding-top: 6rem;
+                    padding-bottom: 12rem;}
 }
 
 @media screen and (max-width: 650px) {
     :root{font-size: 3px;}
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
+    .hero__container{padding-top: 6rem;
+                    padding-bottom: 12rem;}
 }
 
 @media screen and (max-width: 400px) {
     :root{font-size: 2px;}
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
+    .hero__container{padding-top: 6rem;
+                    padding-bottom: 12rem;}
 }
 @media screen and (max-width: 200px) {
     :root{font-size: 1px;}
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
+    .hero__container{padding-top: 6rem;
+                    padding-bottom: 12rem;}
 }
