@@ -520,7 +520,7 @@ ul {
 .tutor-grid{
     display: grid;
     grid-template-columns: 51rem 2fr;
-    gap: 10rem;
+    gap: 6rem;
     margin-bottom: 7rem;
 }
 
@@ -589,7 +589,7 @@ ul {
 
 .curricula-info-heading {
     text-transform: uppercase;
-    font-size: 5rem;
+    font-size: 4.7rem;
     color: #023755;
     font-family: 'Inter', sans-serif;
     font-weight: 800;
