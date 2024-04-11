@@ -519,7 +519,7 @@ ul {
 
 .tutor-grid{
     display: grid;
-    grid-template-columns: 51rem 2fr;
+    grid-template-columns: 51rem 74rem;
     gap: 5rem;
     margin-bottom: 7rem;
 }
@@ -560,9 +560,9 @@ ul {
     object-fit: cover;
 }
 
-.tutor-information{
+/* .tutor-information{
     width: 74rem;
-}
+} */
 
 .curricula-info{
     margin-top: 10rem;
