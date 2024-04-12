@@ -724,7 +724,7 @@ ul {
     .navigation__list-item{font-size:5rem}
 }
 
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 870px) {
     :root{font-size: 5px;}
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
