@@ -760,7 +760,7 @@ ul {
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;;}
     .curricula_info_heading{font-size:2.5rem}
-    .navigation__list-item{font-size:4rem}
+    .navigation__list-item{font-size:4.2rem}
 }
 @media screen and (max-width: 200px) {
     :root{font-size: 1.8px;}
