@@ -759,7 +759,8 @@ ul {
     .hero-text__bottom {font-weight: 900;}
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;;}
-    .curricula_info_heading{font-size:2.8rem}
+    .curricula_info_heading{font-size:3rem}
+    .navigation__list-item{font-size:5.3rem}
 }
 @media screen and (max-width: 200px) {
     :root{font-size: 1.8px;}
@@ -768,4 +769,5 @@ ul {
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;}
     .curricula_info_heading{font-size:2.3rem}
+    .navigation__list-item{font-size:5rem}
 }
