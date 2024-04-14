@@ -752,6 +752,9 @@ ul {
     .hero__container{padding-top: 6rem;;}
     .curricula_info_heading{font-size:2.8rem}
     .navigation__list-item{font-size:5rem}
+    .curricula-info-heading-grid {
+        gap:12rem
+    }
     
                     /* .curricula-info-heading-grid {
                         display: grid;
