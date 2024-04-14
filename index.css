@@ -780,11 +780,12 @@ ul {
                     padding-bottom: 12rem;;}
     .curricula_info_heading{font-size:2.2rem}
     .navigation__list-item{font-size:4.2rem}
+    
     .curricula-info-heading{
-        font-size: 3.7rem;
+        font-size: 4.4rem;
     }
     .curricula-info-title{
-        font-size: 2.0rem;
+        font-size: 2.5rem;
     }
 }
 @media screen and (max-width: 200px) {
@@ -795,10 +796,11 @@ ul {
                     padding-bottom: 12rem;}
     .curricula_info_heading{font-size:2.3rem}
     .navigation__list-item{font-size:5rem}
+    
     .curricula-info-heading{
-        font-size: 3rem;
+        font-size: 3.7rem;
     }
     .curricula-info-title{
-        font-size: 1.5rem;
+        font-size: 2.0rem;
     }
 }
