@@ -732,6 +732,10 @@ ul {
                     padding-bottom: 12rem;}
     .curricula_info_heading{font-size:4rem}
     .navigation__list-item{font-size:4rem}
+    .curricula-info-heading-grid {
+        display: grid;
+        grid-template-columns: 66rem;
+        grid-template-rows: repeat(2,1fr)}
 }
 
 @media screen and (max-width: 740px) {
