@@ -734,7 +734,7 @@ ul {
     .navigation__list-item{font-size:4rem}
     .curricula-info-heading-grid {
         display: grid;
-        grid-template-columns: 66rem;
+        grid-template-columns: 125rem;
         grid-template-rows: repeat(2,1fr)}
 }
 
