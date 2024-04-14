@@ -745,14 +745,7 @@ ul {
     .navigation__list-item{font-size:4.5rem}
 }
 
-@media screen and(max-widht:540px){
-    .curricula-info-heading{
-        font-size: 6.2rem;
-    }
-    .curricula-info-title{
-        font-size: 4.2rem;
-    }
-}
+
 
 @media screen and (max-width: 650px) {
     :root{font-size: 3px;}
@@ -773,6 +766,15 @@ ul {
                     .curricula-info-description{
                         font-size: 3rem;
                     } */
+}
+
+@media screen and(max-widht:540px){
+    .curricula-info-heading{
+        font-size: 6.2rem;
+    }
+    .curricula-info-title{
+        font-size: 4.2rem;
+    }
 }
 
 @media screen and (max-width: 420px) {
