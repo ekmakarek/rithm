@@ -720,7 +720,7 @@ ul {
 @media screen and (max-width: 1000px) {
     :root{font-size: 6px;}
     .filial{min-height: 120rem;}
-    .curricula_info_heading{font-size:4.8rem}
+/*     .curricula_info_heading{font-size:4.8rem} */
     .navigation__list-item{font-size:5rem}
 }
 
@@ -730,7 +730,7 @@ ul {
     .hero-text__bottom {font-weight: 900;}
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;}
-    .curricula_info_heading{font-size:4rem}
+/*     .curricula_info_heading{font-size:4rem} */
     .navigation__list-item{font-size:4rem}
     .curricula-info-heading-grid {
         display: grid;
@@ -744,7 +744,7 @@ ul {
     .hero-text__bottom {font-weight: 900;}
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;}
-    .curricula_info_heading{font-size:3.3rem}
+/*     .curricula_info_heading{font-size:3.3rem} */
     .navigation__list-item{font-size:4.5rem}
 }
 
@@ -753,7 +753,7 @@ ul {
     .filial{min-height: 150rem;}
     .hero-text__bottom {font-weight: 900;}
     .hero__container{padding-top: 6rem;;}
-    .curricula_info_heading{font-size:2.8rem}
+/*     .curricula_info_heading{font-size:2.8rem} */
     .navigation__list-item{font-size:5rem}
 }
 
@@ -763,7 +763,7 @@ ul {
     .hero-text__bottom {font-weight: 900;}
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;;}
-    .curricula_info_heading{font-size:2.2rem}
+/*     .curricula_info_heading{font-size:2.2rem} */
     .navigation__list-item{font-size:4.2rem}
 }
 @media screen and (max-width: 200px) {
@@ -772,6 +772,6 @@ ul {
     .hero-text__bottom {font-weight: 900;}
     .hero__container{padding-top: 6rem;
                     padding-bottom: 12rem;}
-    .curricula_info_heading{font-size:2.3rem}
+/*     .curricula_info_heading{font-size:2.3rem} */
     .navigation__list-item{font-size:5rem}
 }
