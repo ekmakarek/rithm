@@ -745,6 +745,15 @@ ul {
     .navigation__list-item{font-size:4.5rem}
 }
 
+@media screen and(max-widht:540px){
+    .curricula-info-heading{
+        font-size: 6.2rem;
+    }
+    .curricula-info-title{
+        font-size: 4.2rem;
+    }
+}
+
 @media screen and (max-width: 650px) {
     :root{font-size: 3px;}
     .filial{min-height: 150rem;}
@@ -754,12 +763,6 @@ ul {
     .navigation__list-item{font-size:5rem}
     .curricula-info-heading-grid{
         gap:12rem
-    }
-    .curricula-info-heading{
-        font-size: 6.2rem;
-    }
-    .curricula-info-title{
-        font-size: 4.2rem;
     }
 
                     /* .curricula-info-heading-grid {
