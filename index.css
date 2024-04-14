@@ -757,6 +757,9 @@ ul {
         grid-template-columns: min-content;
         grid-template-rows: auto auto;
         }
+    .curricula-info-description{
+        font-size: 3rem
+    }
 }
 
 @media screen and (max-width: 420px) {
