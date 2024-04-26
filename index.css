@@ -770,10 +770,10 @@ ul {
 
 @media screen and(max-widht:540px){
     .curricula-info-heading{
-        font-size: 5.8rem;
+        font-size: 5.0rem;
     }
     .curricula-info-title{
-        font-size: 3.9rem;
+        font-size: 3.3rem;
     }
 }
 
@@ -803,9 +803,9 @@ ul {
     .navigation__list-item{font-size:5rem}
     
     .curricula-info-heading{
-        font-size: 3.7rem;
+        font-size: 3.2rem;
     }
     .curricula-info-title{
-        font-size: 2.0rem;
+        font-size: 1.8rem;
     }
 }
